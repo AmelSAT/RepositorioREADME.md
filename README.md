@@ -16,4 +16,4 @@ Este texto es normal pero...
 * es una
 + lista  :smile:
 
-![Esto es una foto]()
+![Esto es una foto](https://en.wikipedia.org/wiki/Nature_photography#/media/File:Altja_j%C3%B5gi_Lahemaal.jpg)
